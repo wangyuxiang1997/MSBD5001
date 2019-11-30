@@ -1,0 +1,11 @@
+MSBD5001_Kaggle in class competition
+1.data preprocessing
+  The code can be found in Data_preprocessing_code in Github.
+  First is traindata.ipynb, then testdata.ipynb, then aggregate_data.ipynb.
+  The final cleansing data is Data.csv.
+
+2.The prediction code can be found in Github.
+   Final results are produced by linear and ridge model.(Do the PCA first)
+
+  submission3__linear model
+  submission23__ridge model
